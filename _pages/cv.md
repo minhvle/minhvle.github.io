@@ -11,32 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.Eng(Electrical & Electronic)(Hochiminh City University of Technology),
-* M.Eng(Telecommunications)(RMIT),
-* MIT(Research)(Monash),
-* PhD(Computing)(Monash)
+* B.Eng(Electrical & Electronic)(Ho Chi Minh City University of Technology),
+* M.Eng(Telecommunications)(RMIT University),
+* MIT(Research)(Monash University),
+* PhD(Computing)(Monash University)
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2003-Present: Teaching Associate
+  * Monash University
+  * Duties included: Delivered lectures and tutorials
+ 
+* 2018-2018: Sessional Lecturer/Tutor
+  * Holmes Institute
+  * Duties included: Delivered lectures and tutorials
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012 - 2014: Sessional Lecturer/Tutor
+  * Melbourne Institute of Technology
+  * Duties included: Delivered lectures and tutorials
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Design and develop relational databases
+* PL/SQL
+* Python/R for machine learning and data analysis
+* Matlab for image and video processing and analysis
+* Wireshark for packets analysis
 
 Publications
 ======
