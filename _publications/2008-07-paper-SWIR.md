@@ -1,5 +1,5 @@
 ---
-title: "Test New image quality measure based on wavelet transform"
+title: "A study of wavelets-based image representations and their effectiveness"
 collection: publications
 permalink: /publication/2008-07-paper-SWIR
 excerpt: 'This paper is about an image quality measure based on wavelet transform.'
