@@ -2,7 +2,7 @@
 title: "A study of wavelets-based image representations and their effectiveness"
 collection: publications
 permalink: /publication/2008-07-paper-SWIR
-excerpt: 'This paper is about an image quality measure based on wavelet transform.'
+excerpt: 'This paper is a study of wavelets-based image representations and their effectiveness.'
 date: 4-6 November 2002
 venue: 'Conference Paper'
 paperurl: 'http://minhvle.github.io/files/IQM2002.pdf'
