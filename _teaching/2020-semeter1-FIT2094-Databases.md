@@ -16,11 +16,10 @@ This unit will provide an introduction to the concepts of database design and us
 Outcomes
 ======
 On successful completion of this unit, you should be able to:
-<ol>
-<li>Explain the motivations behind the development of database management systems;</li>
-<li>Describe the underlying theoretical basis of the relational database model and apply the theories into practice;</li>
-<li>Develop a sound database design;</li>
-<li>Construct queries that meet user requirements;</li>
-<li>Develop a simple web-based interface for a database;</li>
-<li>Use data modelling and database development tools effectively.</li>
-</ol>
+
+1. Explain the motivations behind the development of database management systems;
+2. Describe the underlying theoretical basis of the relational database model and apply the theories into practice;
+3. Develop a sound database design;
+4. Construct queries that meet user requirements;
+5. Develop a simple web-based interface for a database;
+6. Use data modelling and database development tools effectively.
