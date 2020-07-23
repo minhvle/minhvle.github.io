@@ -1,7 +1,7 @@
 ---
 title: "Semester 1 2020: FIT2094 Databases"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Degree"
 permalink: /teaching/2020-semeter1-FIT2094-Databases
 venue: "Monash University, Faculty of IT"
 date: 01-Mar-2020

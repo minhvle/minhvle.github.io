@@ -1,7 +1,7 @@
 ---
 title: "Semester 1 2020: FIT3171 Databases"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2020-semeter1-FIT3171-Databases
 venue: "Monash University, Faculty of IT"
 date: 01-Mar-2020
