@@ -4,3 +4,15 @@ excerpt: "Tidy data is a data format that provides a standardized way of organiz
 <br/><img src='/images/CertificateOfCompletion_Data_Wrangling_in_R_800x600.png'>"
 collection: portfolio
 ---
+Learning objectives
+===
+1. What's tidy data?
+2. Using the tidyverse
+3. Working with tibbles
+4. Subsetting and filtering tibbles
+5. Importing data into R
+6. Making wide datasets long with gather()
+7. Making long datasets wide with spread()
+8. Converting data types in R
+9. Detecting outliers
+10. Manipulating strings in R with stringr
