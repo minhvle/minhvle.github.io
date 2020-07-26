@@ -30,7 +30,7 @@ Work experience
 * 2012 - 2014: Sessional Lecturer/Tutor
   * Melbourne Institute of Technology
   * Duties included: Delivered lectures and tutorials
-  
+
 Skills
 ======
 * Design and develop relational databases
@@ -44,12 +44,21 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Research Interests
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Wavelets-based signal, image processing and analysis
+* Image quality measures
+* Image and video retrieval methods
+* Digital video processing and analysis
+* Computer vision
+* Machine learning
+
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
@@ -57,6 +66,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
