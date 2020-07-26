@@ -11,4 +11,4 @@ Learning objectives
 3. Docker under the hood
 4. Working with Dockerfiles
 5. Uploading images to Docker Hub
-6. Common use cases for Docker 
+6. Common use cases for Docker
