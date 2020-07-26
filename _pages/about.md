@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Minh Viet Le <br />
-B.Eng(Electrical & Electronic) [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/), <br />
+B.Eng(Electrical & Electronic) [Ho Chi Minh City University of Technology](https://www.hcmut.edu.vn/), <br />
 M.Eng(Telecommunications) [RMIT University](https://rmit.edu.au), <br />
 MIT(Research) [Monash University](https://monash.edu.au), <br />
 PhD(Computing) [Monash University](https://monash.edu.au) <br />
