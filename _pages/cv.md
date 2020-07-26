@@ -45,6 +45,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Teaching
+===
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Research Interests
 ===
 * Wavelets-based signal, image processing and analysis
@@ -53,12 +59,6 @@ Research Interests
 * Digital video processing and analysis
 * Computer vision
 * Machine learning
-
-Teaching
-===
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 <!---
 Talks
