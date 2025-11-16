@@ -6,8 +6,6 @@ collection: portfolio
 
 Learning objectives
 
-===
-
 1. What is an ensemble?
 2. Types of ensembles
 3. Measuring model accuracy

@@ -5,7 +5,7 @@ excerpt: "SQL queries can be fast and highly efficient, but they can also be slo
 collection: portfolio
 ---
 Learning objectives
-===
+
 1. How SQL executes queries
 2. Working with PostgreSQL tools for tuning
 3. Bitmap and hash indexes

@@ -7,8 +7,6 @@ collection: portfolio
 
 Learning objectives
 
-===
-
 1. Summarize the existing state of computing.
 2. Describe the basics of quantum physics.
 3. Explain the principles of quantum computing.

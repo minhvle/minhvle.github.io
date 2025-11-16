@@ -6,8 +6,6 @@ collection: portfolio
 ---
 Learning objectives
 
-===
-
 1. What's tidy data?
 2. Using the tidyverse
 3. Working with tibbles

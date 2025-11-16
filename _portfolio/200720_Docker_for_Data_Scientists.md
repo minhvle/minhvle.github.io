@@ -6,8 +6,6 @@ collection: portfolio
 
 Learning objectives
 
-===
-
 1. Why Docker is gaining prominence
 2. Running a container
 3. Docker under the hood
