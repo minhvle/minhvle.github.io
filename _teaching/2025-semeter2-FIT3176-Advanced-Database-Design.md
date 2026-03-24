@@ -1,7 +1,7 @@
 ---
 title: "Semester 2 2025: FIT3176 Advanced Databased Design"
 collection: teaching
-type: "Postgraduate Degree"
+type: "Undergraduate Degree"
 permalink: /teaching/2025-semeter2-FIT3176-Advanced-Database-Design
 venue: "Monash University, Faculty of IT"
 date: 01-July-2025
