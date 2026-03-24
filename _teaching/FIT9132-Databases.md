@@ -2,7 +2,7 @@
 title: "Semester 2 2015 - Present: FIT9132 Introduction to Databases"
 collection: teaching
 type: "Postgraduate Degree"
-permalink: /teaching/2025-semeter2-FIT9132-Databases
+permalink: /teaching/FIT9132-Databases
 venue: "Monash University, Faculty of IT"
 date: 01-July-2015
 location: "Melbourne, Australia"
