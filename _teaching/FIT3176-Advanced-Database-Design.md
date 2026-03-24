@@ -1,5 +1,5 @@
 ---
-title: "Semester 2 2024 - Present: FIT3176 Advanced Databased Design"
+title: "Semester 2 2024 - Present: FIT3176 Advanced Database Design"
 collection: teaching
 type: "Undergraduate Degree"
 permalink: /teaching/FIT3176-Advanced-Database-Design
