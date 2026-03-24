@@ -1,5 +1,5 @@
 ---
-title: "Semester 1 2020: FIT3171 Databases"
+title: "Semester 1 2020 - Present: FIT3171 Databases"
 collection: teaching
 type: "Undergraduate Degree"
 permalink: /teaching/2020-semeter1-FIT3171-Databases
