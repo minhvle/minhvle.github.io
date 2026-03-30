@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ===
-* B.Eng(Electrical & Electronic) [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/),
-* M.Eng(Telecommunications) [RMIT University](https://rmit.edu.au),
+* B.Eng(Electrical & Electronic) [Ho Chi Minh City University of Technology, Viet Nam](https://hcmut.edu.vn/),
+* M.Eng(Telecommunications) [RMIT University, Australia](https://rmit.edu.au),
 * MIT(Research) [Monash University, Australia](https://monash.edu.au),
 * PhD(Computing) [Monash University, Australia](https://monash.edu.au)
 
