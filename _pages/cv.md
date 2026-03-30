@@ -10,18 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-
 ===
-
-* B.Eng(Electrical & Electronic)[Ho Chi Minh City University of Technology](https://hcmut.edu.vn/),
-* M.Eng(Telecommunications)[RMIT University](https://rmit.edu.au),
-* MIT(Research)[Monash University, Australia](https://monash.edu.au),
-* PhD(Computing)[Monash University, Australia](https://monash.edu.au)
+* B.Eng(Electrical & Electronic) [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/),
+* M.Eng(Telecommunications) [RMIT University](https://rmit.edu.au),
+* MIT(Research) [Monash University, Australia](https://monash.edu.au),
+* PhD(Computing) [Monash University, Australia](https://monash.edu.au)
 
 Work experience
-
 ===
-
 * 2003-Present: Teaching Associate
   * Monash University
   * Duties included: Delivered lectures and tutorials
@@ -35,9 +31,7 @@ Work experience
   * Duties included: Delivered lectures and tutorials
 
 Skills
-
 ===
-
 * Design and develop relational databases
 * PL/SQL
 * Python/R for machine learning and data analysis
@@ -45,25 +39,19 @@ Skills
 * Wireshark for packets analysis
 
 Publications
-
 ===
-
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Teaching
-
 ===
-
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Research Interests
-
 ===
-
 * Wavelets-based signal, image processing and analysis
 * Image quality measures
 * Image and video retrieval methods
